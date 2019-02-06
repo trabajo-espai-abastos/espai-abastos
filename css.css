@@ -67,10 +67,16 @@ section.ar{
 }
 img.iz{
     float: left;
+    width: 350px;
+    height: 200px;
+    padding-right: 10px;
 
 }
 img.der{
     float: right;
+    width: 350px;
+    height: 200px;
+    padding-left: 10px;
 }
 section.cen{
     padding-top: 100px;
@@ -81,4 +87,6 @@ article.de{
     text-align: right
 
 }
-
+p {
+    text-indent: 25px;
+}
