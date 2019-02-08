@@ -48,7 +48,7 @@ h1 {
 .nav li ul {
     display:none;
     position:absolute;
-    min-width:100px;
+    min-width:150px;
 }
 
 .nav li:hover > ul {
