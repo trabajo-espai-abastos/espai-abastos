@@ -72,3 +72,19 @@
    width: auto;
    height: auto;
  }
+h3{
+  padding-top: 75px;
+}
+a.mestre{
+  color: black;
+  text-decoration: underline;
+}
+p.ubicacion{
+  text-align: right;
+  position: absolute;
+  margin-top: -460px;
+  right: 530px;
+}
+p.rrss{
+  text-align: center;
+}
