@@ -81,9 +81,9 @@ a.mestre{
 }
 p.ubicacion{
   text-align: right;
-  position: absolute;
-  margin-top: -460px;
-  right: 530px;
+  position: relative;
+  margin-top: -500px;
+  right: 100px;
 }
 p.rrss{
   text-align: center;
