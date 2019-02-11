@@ -94,7 +94,15 @@ img.rrss{
 }
 img.imgpiso{
   padding-right: 10px;
+  float: left;
+ 
 }
-p.imgderecha{
-  text-align: right;
+img.der{
+  float: right;
+  
+}
+article.img{
+  padding-top: 15%;
+  padding-bottom : 5%;
+  margin: 10px;
 }
