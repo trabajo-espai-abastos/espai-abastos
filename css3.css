@@ -29,11 +29,17 @@ table.lli{
     padding-top: 2%;
 }
 li.lis{
- margin: 5  px;
+ margin: 5px;
  font-size: 21px;
  font-weight: bold;
 }
 h1.top{
     padding-top: 7%;  
     padding-bottom: 5%
+}
+button{
+    border: 2px blue solid;
+    margin: 10px;
+    background-color: blue;
+    color: bisque
 }
