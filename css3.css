@@ -24,8 +24,8 @@ td.top{
     text-align: center;
 }
 table.lli{
-    border: 2px rgb(240, 214, 130)  solid;
-    background-color: rgb(221, 197, 120);
+    border: 2px rgb(221, 197, 120 ) solid;
+    background-color: rgb(240, 214, 130);
     padding-top: 2%;
 }
 li.lis{
