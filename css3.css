@@ -41,5 +41,5 @@ button{
     border: 2px rgb(196, 175, 106) solid;
     margin: 10px;
     background-color: rgb(196, 175, 106);
-    color: bisque
+    border-radius: 5px; 
 }
