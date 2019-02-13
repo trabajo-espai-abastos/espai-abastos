@@ -2,8 +2,32 @@
     width: 300px;
     height: 200px;
     background-size: cover;
-    background-image: url("img/prin.jpg");
+    background-image: url("img/IMG_6451.JPG");
+    border-radius: 10px;
    
+  }
+  div#imagen1 {
+    width: 300px;
+    height: 200px;
+    background-size: cover;
+    background-image: url("img/IMG_20190201_200023.jpg");
+    border-radius: 10px;
+   
+  }
+  div#imagen2 {
+    width: 300px;
+    height: 200px;
+    background-size: cover;
+    background-image: url("img/prin.jpg");
+    border-radius: 10px;
+   
+  }
+  div#imagen3 {
+    width: 300px;
+    height: 200px;
+    background-size: cover;
+    background-image: url("img/25594244_1516361641733426_3789142079949947674_n.jpg");
+    border-radius: 10px;
   }
   
   div#info {
@@ -19,7 +43,15 @@
   div#imagen:hover div#info {
     opacity:1;
   }
-  
+  div#imagen1:hover div#info {
+    opacity:1;
+  }
+  div#imagen2:hover div#info {
+    opacity:1;
+  }
+  div#imagen3:hover div#info {
+    opacity:1;
+  }
   p#headline {
     position: absolute;
     font-size: 1.5rem;
@@ -30,8 +62,20 @@
   }
   
   div#imagen:hover p#headline {
-    margin-left: 115px;
+    margin-left: 95px;
   }
+  div#imagen1:hover p#headline {
+    margin-left: 95px;
+  }
+  div#imagen2:hover p#headline {
+    margin-left: 85px;
+  }
+  div#imagen3:hover p#headline {
+    margin-left: 75px;
+  }
+  
+  
+  
   
   p#descripcion {
     font-size: 1rem;
@@ -42,6 +86,15 @@
   }
   
   div#imagen:hover p#descripcion {
+    margin-top: 75px;
+  }
+  div#imagen1:hover p#descripcion {
+    margin-top: 75px;
+  }
+  div#imagen2:hover p#descripcion {
+    margin-top: 75px;
+  }
+  div#imagen3:hover p#descripcion {
     margin-top: 75px;
   }
 
@@ -103,6 +156,14 @@ img.der{
 }
 article.img{
   padding-top: 15%;
+  padding-bottom : 5%;
+  margin: 10px;
+}
+sup{
+  font-size: 14px;
+}
+article.tops{
+  padding-top: 50px;
   padding-bottom : 5%;
   margin: 10px;
 }

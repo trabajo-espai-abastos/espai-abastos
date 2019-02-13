@@ -19,9 +19,11 @@ img{
 }
 td{
     text-align: center;
+    padding: 5px;
 }
 td.top{
     text-align: center;
+    
 }
 table.lli{
     border: 2px rgb(221, 197, 120 ) solid;
@@ -30,7 +32,7 @@ table.lli{
 }
 li.lis{
  margin: 5px;
- font-size: 21px;
+ font-size: 18px;
  font-weight: bold;
 }
 h1.top{
@@ -42,4 +44,7 @@ button{
     margin: 10px;
     background-color: rgb(196, 175, 106);
     border-radius: 5px; 
+}
+tr.top{
+    padding: 5px;
 }
