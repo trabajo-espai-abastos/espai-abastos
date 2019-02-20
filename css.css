@@ -71,13 +71,14 @@ img.iz{
     width: 350px;
     height: 200px;
     padding-right: 10px;
-
+    border-radius: 25px;
 }
 img.der{
     float: right;
     width: 350px;
     height: 200px;
     padding-left: 10px;
+    border-radius: 25px;
 }
 section.cen{
     padding-top: 100px;
@@ -109,3 +110,17 @@ p.fut{
     border-radius: 15px;
     font-weight: bolder;
 }
+p.futt{
+    position: relative;
+    top: 100%;
+    left: 0%;
+    right: 0%;
+    padding: 10px;
+    margin-top: 180px;
+    margin-bottom: 0px;
+    text-align: center;
+    font-size: 14px;
+    background-color: rgb(153, 152, 152);
+    border-radius: 15px;
+    font-weight: bolder;
+  }

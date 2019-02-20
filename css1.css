@@ -186,17 +186,3 @@ b.bot{
   font-size: 15px;
   margin-top: 5px;
 }
-p.futt{
-  position: relative;
-  top: 100%;
-  left: 0%;
-  right: 0%;
-  padding: 10px;
-  margin-top: 150px;
-  margin-bottom: 0px;
-  text-align: center;
-  font-size: 14px;
-  background-color: rgb(153, 152, 152);
-  border-radius: 15px;
-  font-weight: bolder;
-}
