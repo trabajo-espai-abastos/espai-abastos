@@ -100,3 +100,12 @@ img.top{
     height: 2280px;
     width: 1240px;
 }
+p.fut{
+    padding: 8px;
+    margin-bottom: 0px;
+    text-align: center;
+    font-size: 14px;
+    background-color: rgb(153, 152, 152);
+    border-radius: 15px;
+    font-weight: bolder;
+}
